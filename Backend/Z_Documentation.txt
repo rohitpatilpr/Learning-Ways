@@ -1,0 +1,22 @@
+
+Geting Start
+This documentation Createrd by using Web Apploication Document360.io
+
+The required package installation
+npm init -y -> For npm instance create in folder.
+npm i express -> For use express framework properties.
+npm i mongoose -> For connection to data base and node.js.
+npm i nodemon -> For Automatic Run npm package.
+npm i dotenv -> Access the the data from the .env file.
+npm i nodemailer -> This package required to send the mail.
+npm i cookie-parser -> To use the cookie in Authentication.
+npm i jsonwebtoken -> To use JWT for Aurhentication & Authorization.
+npm i bcrypt -> To secure the password by hashing it.
+npm i otp-generator -> To generate the otp.
+The ER Diagram for Learning Ways
+
+
+This diagram created by using the Moon Moduler Windows application
+
+ER Diagarm
+ER Diagram.png
